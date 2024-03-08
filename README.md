@@ -1,2 +1,2 @@
 # Selection_Sort
-Integer sorting or String sorting
+Integer sorting and String sorting
